@@ -1,0 +1,20 @@
+Ćw3 [17pkt] Klasy z dynamiczną zawartością, wyjątki
+
+Plan zajęć:
+
+[3pkt] Zaimplementuj podane na zajęciach dwie klasy (jedną prostą, drugą zawierającą dynamicznie alokowaną
+       tablicę obiektów klasy pierwszej o rozmiarze zadanym w konstruktorze), zawierające:
+        - zadane atrybuty (dla klasy z tablicą należy przechowywać wskaźnik do tablicy, jej rozmiar i licznik elementów w tablicy),
+        - odpowiednie konstruktory, inicjujące atrybuty (z wartościami domyślnymi),
+[6pkt] Uzupełnij drugą klasę o następujące elementy:
+        - konstruktor kopiujący oraz przenoszący,
+        - destruktor,
+        - operator podstawienia oraz przenoszący operator podstawienia,
+        - metodę zwracającą liczbę elementów w tablicy,
+        - metodę dodającą obiekt do tablicy (bez realokowania tablicy, w pierwsze wolne miejsce),
+[2pkt] Wszelkie sytuacje krytyczne (brak miejsca w tablicy, błędne indeksy) powinny być zgłaszane poprzez wyjątki.
+[2pkt] Deklaracje klasy powinny znaleźć się w odpowiednim pliku nagłówkowym, definicje metod i konstruktorów - w pliku źródłowym.
+[2pkt] Obiekty typów klasowych powinny być przekazywane do funkcji/metod przez referencje (zwykłe lub stałe), metody 
+       niemodyfikujące zawartości klasy powinny być oznaczane jako const.
+[2pkt] Stwórz w funkcji main kilka obiektów tej klasy i przetestuj wszystkie zaimplementowane konstruktory, 
+       operatory oraz metody, łącznie z przechwyceniem ewentualnie zgłoszonego wyjątku.
