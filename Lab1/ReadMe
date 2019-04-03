@@ -1,0 +1,13 @@
+Plan zajęć:
+
+[8pkt] Zaimplementuj podaną na zajęciach klasę, zawierającą:
+       zadane atrybuty,
+        - konstruktor bezparametrowy,
+        - konstruktor z parametrami (część z wartością domyślną),
+        - zadany zestaw metod dostępowych/modyfikujących obiekty klasy,
+        - metodę wypisz, wypisującą atrybuty obiektu na konsolę,
+        - zadany atrybut i metodę statyczną,
+[4pkt] Stwórz w funkcji main kilka obiektów tej klasy i przetestuj wszystkie zaimplementowane konstruktory oraz metody.
+[4pkt] Dodaj do klasy metody zapisz(ostream& os)/wczytaj(istream& is), zapisujące/odczytujące zawartość obiektu do 
+       przekazanego jako parametr strumienia wyjściowego/wejściowego, w podanym na zajęciach formacie.
+       Metoda wczytująca może założyć, że format danych będzie poprawny.
