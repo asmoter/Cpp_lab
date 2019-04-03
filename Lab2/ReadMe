@@ -10,7 +10,7 @@ Plan zajęć:
         - zadane operatory arytmetyczne, zdefiniowane jako metody klasy albo funkcje zewnętrzne (zgodnie z instrukcją),
         - zadany operator logiczny (metoda klasy),
         - zadany operator tablicowy (metoda klasy),
-         - zadany operator konwersji (metoda klasy),
+        - zadany operator konwersji (metoda klasy),
 [4pkt] Deklaracje klas i funkcji (wszystkich razem) powinny znaleźć się w pliku nagłówkowym "obiekty.h", 
        definicje funkcji zewnętrznych i metod klas w pliku źródłowym "obiekty.cpp", funkcja main z kodem testowym w pliku "main.cpp".
 © 2019 GitHub, Inc.
