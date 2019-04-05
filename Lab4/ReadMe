@@ -1,0 +1,13 @@
+Ćw4 [17pkt] Dziedziczenie i hierarchie klas
+
+Plan zajęć:
+[8pkt] Zaimplementuj hierarchię klas zadaną na zajęciach.
+       - zadane atrybuty i metody,
+       - odpowiednie konstruktory (pusty konstruktor domyślny nie powinien być dostępny) inicjujące 
+         atrybuty (bez wartości domyślnych) z użyciem listy inicjalizującej,
+[3pkt] Należy wykorzystać metody wirtualne i czysto wirtualne we właściwych miejscach (pamiętając 
+       o wirtualnym destruktorze tam, gdzie jest to potrzebne).
+[2pkt] Dla każdej klasy stwórz odpowiedni plik źródłowy i nagłówkowy.
+[2pkt] Wszystkie klasy powinny być umieszczone we wspólnej przestrzeni nazw.
+[2pkt] Stwórz w funkcji main tablicę wskaźników do obiektów klas oraz wstawione do niej dynamicznie 
+       zaalokowane obiekty, testując wszystkie zaimplementowane konstruktory i metody.
